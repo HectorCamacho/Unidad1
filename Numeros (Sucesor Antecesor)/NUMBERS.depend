@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1536798125 source:c:\users\familiadc\desktop\programacion c++ 18b\numbers\main.cpp
+	<iostream>
+	"include/NATURAL.h"
+
+1536797077 c:\users\familiadc\desktop\programacion c++ 18b\numbers\include\natural.h
+	<cmath>
+

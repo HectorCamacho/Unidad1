@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1537583924 source:f:\estructura de datos\ejercicios\juegoahorcado\main.cpp
+	<stdio.h>
+	<string.h>
+	<iostream>
+
